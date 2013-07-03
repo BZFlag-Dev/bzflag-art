@@ -1,4 +1,4 @@
 bzflag-art
 ==========
 
-Sources for Origonal Art used in BZFlag
+Sources for Original Art used in BZFlag
