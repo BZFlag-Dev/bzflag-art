@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="512"
+   height="512"
+   version="1.1"
+   viewBox="0 0 135.47 135.47"
+   id="svg1018"
+   sodipodi:docname="bzflag-logo.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1022" />
+  <sodipodi:namedview
+     id="namedview1020"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.1683835"
+     inkscape:cx="195.56935"
+     inkscape:cy="283.2974"
+     inkscape:window-width="1920"
+     inkscape:window-height="1103"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1016" />
+  <g
+     fill="#fff"
+     fill-opacity=".99979"
+     stroke-width="0"
+     id="g1016">
+    <path
+       transform="scale(.26458)"
+       d="m232 16v203.36a88 88 0 0 1 24-3.3613 88 88 0 0 1 24 3.3418v-203.34z"
+       id="path1006" />
+    <path
+       transform="scale(.26458)"
+       d="m256 240a64 64 0 0 0-64 64v80h128v-80a64 64 0 0 0-64-64z"
+       id="path1008" />
+    <path
+       transform="scale(0.26458)"
+       d="m 160,168 -24,24 v 224 l 24,24 h 24 v 24 h 56 v -24 h 48 v 24 h 40 v -24 h 24 l 24,-24 V 192 l -24,-24 h -48 v 62.256 c 24.94651,16.23497 39.99582,43.97988 40,73.744 v 8 80 l -16,16 H 184 l -16,-16 v -80 -8 c 0.0285,-29.73857 15.07488,-57.45097 40,-73.672 V 168 Z"
+       id="path1010"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+    <path
+       d="m95.25 35.983 10.583 10.583v65.617l-10.583 10.583v4.2333l4.2333 4.2333h14.817l4.2333-4.2333v-107.95l-4.2333-4.2333h-14.817l-4.2333 4.2333z"
+       id="path1012" />
+    <path
+       d="m40.217 35.983-10.583 10.583v65.617l10.583 10.583v4.2333l-4.2333 4.2333h-14.817l-4.2333-4.2333v-107.95l4.2333-4.2333h14.817l4.2333 4.2333z"
+       id="path1014" />
+  </g>
+</svg>
